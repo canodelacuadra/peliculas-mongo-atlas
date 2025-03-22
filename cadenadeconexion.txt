@@ -1,0 +1,2 @@
+_N_mnNp-U32nR6r
+mongodb+srv://canodelacuadra:_N_mnNp-U32nR6r@cluster0.omftv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
